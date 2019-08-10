@@ -6,3 +6,4 @@ BasicSKLearnDecisionTrees.ipynb - Basic decision trees using SKLearn decision tr
 BasicSKLearnLinearRegressionNotebook.ipynb - Basic regression using SKLearn, tutorial.
 BeginningImageProcessing.ipynb - Beginning image processing. <br>
 CascadiaCharcoalDeposits.ipynb - Analysis of charcoal deposits in the Cascade mountains.
+ChicagoCrimeAnalysisandPrediction1.ipynb - Analysis of Chicago crime data.
