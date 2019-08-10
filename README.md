@@ -7,4 +7,5 @@ BasicSKLearnLinearRegressionNotebook.ipynb - Basic regression using SKLearn, tut
 BeginningImageProcessing.ipynb - Beginning image processing. <br>
 CascadiaCharcoalDeposits.ipynb - Analysis of charcoal deposits in the Cascade mountains.
 ChicagoCrimeAnalysisandPrediction1.ipynb - Analysis of Chicago crime data.
-ChicagoCrimeAnalysisandPrediction2.ipynb - KMeans used to predict where crime will happen next in Chicago. <br>
+ChicagoCrimeAnalysisandPrediction2.ipynb - KNearestNeighbor used to predict where crime will happen next in Chicago. <br>
+CreditCardKMeansClustering.ipynb - Using KMeans to group credit card users.
