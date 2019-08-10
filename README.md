@@ -9,4 +9,5 @@ CascadiaCharcoalDeposits.ipynb - Analysis of charcoal deposits in the Cascade mo
 ChicagoCrimeAnalysisandPrediction1.ipynb - Analysis of Chicago crime data.
 ChicagoCrimeAnalysisandPrediction2.ipynb - KNearestNeighbor used to predict where crime will happen next in Chicago. <br>
 CreditCardKMeansClustering.ipynb - Using KMeans to group credit card users.<br>
-DataVisualizationinPython.ipynb - Data visualization practice in Python.
+DataVisualizationinPython.ipynb - Data visualization practice in Python. <br>
+HawaiiCoralSurvey.ipynb - Analysis of coral reefs in Hawaii. <br>
