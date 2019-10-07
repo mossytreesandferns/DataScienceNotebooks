@@ -20,7 +20,6 @@ MyNumpyBasicNotebook.ipynb - Basic Numpy commands, tutorial.<br>
 PCAAnalysis.ipynb - Using PCA analysis on health data.<br>
 README.md
 StackExchangeAnalysisandPredictions.ipynb - Analyzing user data and applying logistic regression to predict whether a post will be flagged or not.<br>
-Tensorflow2Tutorial.ipynb - Working with the MNIST Fashion image set. Tutorial.</br>
 TheWholeProcessDataScience.ipynb - Cleaning and preparing data, engineering features, using KNN on California housing data.<br>
 TimeSeriesAnalysisRegression.ipynb - Time series analysis, tutorial.<br>
 TitanicAnalysisandMachineLearning.ipynb - Analysis of the Titanic Data Set using Descriptive Statistics, the 2-Proportion Z_test, and Binary Logistic Regression.<br>
