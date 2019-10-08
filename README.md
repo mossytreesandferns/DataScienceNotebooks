@@ -17,6 +17,7 @@ MeanshiftClustering.ipynb - Applying mean shift clustering to wave data.<br>
 MulticlassClassificationFourApproaches.ipynb - Using decision trees, support vector machines, K Nearest Neighbors, and Naive Bayes to classify forest data.<br>
 MyBasicPandasNotebook.ipynb - Basic Pandas commands, tutorial.<br>
 MyNumpyBasicNotebook.ipynb - Basic Numpy commands, tutorial.<br>
+NeuralNetNumpy.ipynb - Neural Net from scratch using Numpy. <br>
 PCAAnalysis.ipynb - Using PCA analysis on health data.<br>
 README.md
 StackExchangeAnalysisandPredictions.ipynb - Analyzing user data and applying logistic regression to predict whether a post will be flagged or not.<br>
