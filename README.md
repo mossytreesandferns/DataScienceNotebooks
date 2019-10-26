@@ -21,6 +21,7 @@ MyNumpyBasicNotebook.ipynb - Basic Numpy commands, tutorial.<br>
 NeuralNetNumpy.ipynb - Neural Net from scratch using Numpy. <br>
 PCAAnalysis.ipynb - Using PCA analysis on health data.<br>
 README.md
+ROCCurves.ipynb - Explanation of ROC curves with an example using data from StackExchangeAnalysisandPredictions.ipynb. <br>
 StackExchangeAnalysisandPredictions.ipynb - Analyzing user data and applying logistic regression to predict whether a post will be flagged or not.<br>
 TheWholeProcessDataScience.ipynb - Cleaning and preparing data, engineering features, using KNN on California housing data.<br>
 TimeSeriesAnalysisRegression.ipynb - Time series analysis, tutorial.<br>
